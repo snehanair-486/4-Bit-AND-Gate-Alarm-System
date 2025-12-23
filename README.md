@@ -15,4 +15,5 @@ Logic Rule:
 
 
 **Truth Table**
+
 <img width="467" height="372" alt="image" src="https://github.com/user-attachments/assets/ca2a7d6a-69e4-4734-bd32-e2b40bb16ba5" />
