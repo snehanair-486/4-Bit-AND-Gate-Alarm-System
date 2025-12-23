@@ -10,6 +10,7 @@ An AND gate-based alarm system is a simple yet effective digital security soluti
 Logic Rule:
 
 ● Alarm turns ON (1) only if all sensors detect an intrusion (1 1 1 1).
+
 ● If any sensor is OFF (0), the alarm remains OFF (0).
 
 
